@@ -1,4 +1,4 @@
-# Como Amostrar Redes?
+# Como Amostrar Redes Complexas?
 
 Projeto de análise e comparação de algoritmos de amostragem de redes complexas, avaliando como diferentes métodos preservam as propriedades estruturais dos grafos originais.
 
